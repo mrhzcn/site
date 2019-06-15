@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr. Emrah Özcan
-email: emrah@emrahozcan.com.tr
+email: dr@emrahozcan.com.tr
 description: >- # this means to ignore newlines until "baseurl:"
    "...dum loquimur, fugerit invida aetas: carpe diem, quam minimum credula postero."
    As we speak cruel time is fleeing. Seize the day, believing as little as possible in the morrow. 
