@@ -3,10 +3,9 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+### ![ytu-photo] **At Yildiz Technical University, Faculty of Education**
 
-## At Yildiz Technical University, Faculty of Education
-
-*I have taught the following courses*
+#### I have taught the following courses
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
@@ -28,7 +27,7 @@ ERASMUS|TILC (Turkish Intensive Language Course for ERASMUS Exchange Students)|S
 ERASMUS|TILC (Turkish Intensive Language Course for ERASMUS Exchange Students)|SUMMER|2006
 0931062|English Grammar II|SPRING|2006
 
-*I assisted the following courses*
+#### I assisted the following courses
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
@@ -36,9 +35,9 @@ ING3111|Teaching English to Young Learners I|SPRING|2012-2017
 ING3182|Teaching English to Young Learners II|FALL|2012-2017
 0922022|Instructional Technologies and Material Development|SPRING|2008
 
-## At the University of Georgia, Franklin College
+### ![UGA][uga-photo] **At the University of Georgia, Franklin College**
 
-*I taught the following courses*
+#### I taught the following courses
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
@@ -48,3 +47,5 @@ TURK1001|Turkish|SPRING|2010
 TURK1002|Turkish|SPRING|2010
 TURK2001|Turkish|SPRING|2010
 
+[ytu-photo]: ../ytu-logo.png "Yildiz Technical University"
+[uga-photo]: ../uga-logo.png "University of Georgia"
