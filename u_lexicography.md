@@ -5,7 +5,7 @@ permalink: /lexicography/
 ---
 If you are curios about what lexicography is, here is how Frawley (1992) describes it:
 
-> "Lexicography is a discipline with a long history in most cultures. Typically, it aims at breadth of coverage rather than depth. Depth is achieved in the related discipline of lexicology, through detailed studies of key elements in the lexicon. The aim of lexicography is the systematic collection and explication of 'all' the words of a language (more strictly speaking, all the lexical items of a language, including idioms, multi-word expressions, and bound morphemes, as well as individual words)." 
+> "Lexicography is a discipline with a long history in most cultures. Typically, it aims at breadth of coverage rather than depth. Depth is achieved in the related discipline of lexicology, through detailed studies of key elements in the lexicon. The aim of lexicography is the systematic collection and explication of 'all' the words of a language (more strictly speaking, all the lexical items of a language, including idioms, multi-word expressions, and bound morphemes, as well as individual words)."
 
 > "In the past two decades, the practice of lexicography has been transformed by the evidence of usage that is now to be found in large electronic corpora, so that the traditional historical-cultural focus of lexicography is beginning to be matched by empirically well-founded accounts of the dynamic nature of the lexicon and the relationship between word meaning and word use."
 
@@ -13,7 +13,7 @@ If you are curios about what lexicography is, here is how Frawley (1992) describ
 
 ***
 
-Here are some useful links about Lexicography :+1:
+Here are some useful links about Lexicography:
 
 - European Lexicographic Infrastructure: [https://elex.is](https://elex.is){: target="_blank"}
 - DSNA (Dictionary Society of North America): [http://www.dictionarysociety.com](http://www.dictionarysociety.com){: target="_blank"}
