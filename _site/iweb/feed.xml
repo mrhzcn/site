@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:8BD3945A-A24A-4C86-A400-EA78FC0A5E12</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-06-14T14:21:16+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:BAEA9934-55AE-4C6C-A0E3-5CD90FF4DDA6</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">BAEA9934-55AE-4C6C-A0E3-5CD90FF4DDA6</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2019-06-14T14:21:16.001+03:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3A4422C4-127A-432C-8E46-E8258BFE0511</id>
+  <title>Lexicography</title>
+  <title xmlns="urn:iweb:">Lexicography</title>
+  <in-navbar xmlns="urn:iweb:">3A4422C4-127A-432C-8E46-E8258BFE0511</in-navbar>
+  <link rel="alternate" href="Lexicography.html"/>
+  <updated>2019-06-14T14:21:16.002+03:00</updated>
+  <content>Lexicography</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C535410D-0E48-4AB6-BE69-156D90E93FE4</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">C535410D-0E48-4AB6-BE69-156D90E93FE4</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2019-06-14T14:21:16.003+03:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2F2E0A75-EB2C-47B8-B70B-1973387DB547</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">2F2E0A75-EB2C-47B8-B70B-1973387DB547</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2019-06-14T14:21:16.004+03:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DB5FC57D-7D61-48C1-A74B-42743ED6A79B</id>
+  <title>Courses &amp; Trainings</title>
+  <title xmlns="urn:iweb:">Courses &amp; Trainings</title>
+  <in-navbar xmlns="urn:iweb:">DB5FC57D-7D61-48C1-A74B-42743ED6A79B</in-navbar>
+  <link rel="alternate" href="Courses_%26_Trainings.html"/>
+  <updated>2019-06-14T14:21:16.005+03:00</updated>
+  <content>Courses &amp; Trainings</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E2BE5421-DCF4-4E19-B5AE-D8A1A45BB5DF</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">E2BE5421-DCF4-4E19-B5AE-D8A1A45BB5DF</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2019-06-14T14:21:16.006+03:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
