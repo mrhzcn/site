@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install Jekyll"
+title:  "How to use Jekyll with GitHub pages"
 date:   2019-06-16 06:39:03 +0300
 categories: blog
 ---
