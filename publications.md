@@ -8,7 +8,7 @@ permalink: /publications/
 - Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
  
 ## OTHER PUBLICATIONS
-- Özcan E., "SÖZLÜKBİLİM VE SÖZLÜKÇÜLÜK TERİMLERİNİN KULLANIMI ÜZERİNE", YILDIZ Journal of Educational Research (YEAD), vol.3, pp.1-13, 2018 [(Download)](http://eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=2752){: target="_blank"}
+- Özcan E., "Sözlükbilim ve Sözlükçülük Terimlerinin Kullanımı Üzerine", YILDIZ Journal of Educational Research (YEAD), vol.3, pp.1-13, 2018 [(Download)](http://eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=2752){: target="_blank"}
 - Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
  
 ## PROCEEDINGS IN CONFERENCES/SYMPOSIUMS (REFREED)
@@ -37,7 +37,7 @@ permalink: /publications/
 - Özcan E., "Building Learners Dictionary for Turkish: Corpus Based or Traditional? A Theoretical Attempt", 2011 Symposium on Exploring the Boundaries and Applications of Corpus Linguistics, , April 2011
 - Özcan E., Efeoğlu G., Kir E., "Yabancı Dil Olarak Türkçe Programı İçin Ders Önerileri", 9. Uluslararası Dünyada Türkçe Öğretimi: Çağdaş Türk Yazı Dillerinin Öğretimi Sempozyumu, ,, KYRGYZSTAN, 6-7 May 2011, pp.,-,
 - Kir E., Özcan E., Efeoğlu G., "Yıldız Teknik Üniversitesi, İngilizce Öğretmenliği Lisans Öğrencilerinin Yabancı Dil Olarak Türkçe Lisans Programına İlişkin Algıları", IV. International World Language Turkish Symposium, MUĞLA, TÜRKIYE, 8-10 September 2011, pp.,-,
-- Özcan E., "Türkçe Öğrenici Sözlüğü", 21st National Linguistics Congress, TURKEY, May 2007
+- Özcan E., "Türkçe Öğrenici Sözlüğü", 21st National Linguistics Congress, Turkey, May 2007
 - Özcan E., "Low-Frequency Lexical Items and Specialized Dictionaries: Model and Application", Thirteenth International Symposium on Lexicography, , May 2007
 - Özcan E., "Ways of Defining and Their Effects on the Learner", The 26th International Conference Of The Poetics And Linguistics Association, , July 2006
 
