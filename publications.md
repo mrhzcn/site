@@ -40,3 +40,10 @@ permalink: /publications/
 - Özcan E., "Türkçe Öğrenici Sözlüğü", 21st National Linguistics Congress, TURKEY, May 2007
 - Özcan E., "Low-Frequency Lexical Items and Specialized Dictionaries: Model and Application", Thirteenth International Symposium on Lexicography, , May 2007
 - Özcan E., "Ways of Defining and Their Effects on the Learner", The 26th International Conference Of The Poetics And Linguistics Association, , July 2006
+
+## TRANSLATIONS
+- CHILDRESS, Alice, Miss James (Bayan James), Short Story (into Turkish), Adam Öykü Dergisi, November - December 2003.
+- UPDIKE, John, Natural Colour (Doğal Renk), Short Story (into Turkish), Adam Öykü Dergisi, September - October 2003. (with B.Tarhan)
+- DAHL, Roald, The Butler (Kahya), Short Story (into Turkish), Adam Öykü Dergisi, May - June 2003.
+- YOLLEN, Jane, Johanna (Johanna), Short Story (into Turkish), Adam Öykü Dergisi, September - October 2002.
+- ALEXIE, Sherman, The Lone Ranger and Tonto Fistfight in Heaven (Yalnız Kovboy ile Apaçi'nin Cennetteki Yumruklaşması), Short Story (into Turkish), Adam Öykü Dergisi, May - June 2001.
