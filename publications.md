@@ -12,7 +12,7 @@ permalink: /publications/
 - Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
  
 ## PROCEEDINGS IN CONFERENCES/SYMPOSIUMS (REFREED)
-- Özcan E., "Retro-digitizing Turkish dictionaries using GROBID-dictionaries and XSLT", Lexical Data Masterclass Participants' Symposium, Berlin, GERMANY, 3-7 December 2018. [(Download)](http://doi.org/10.5281/zenodo.2531071){: target="_blank"}
+- Özcan E., "Retro-digitizing Turkish dictionaries using GROBID-dictionaries and XSLT", Lexical Data Masterclass Participants' Symposium, Berlin, GERMANY, 3-7 December 2018. [(Download)](https://hal.archives-ouvertes.fr/hal-01969337){: target="_blank"}
 - Özcan E., "Türkçe Sözlük’te Örnek Verme Stratejisi", 11. Uluslararası Türkçenin Eğitimi-Öğretimi Kurultayı, Ankara, TÜRKIYE, 4-6 October 2018.
 - Özcan E., Demirgüneş S., "İlköğretim Türkçe Okul Sözlüklerinin Sözlükbilimsel Analizi", 2. Uluslararası İpek Yolu Akademik Çalışmalar Sempozyumu, Nevşehir, 20-22 September 2018.
 - Demirgüneş S., Özcan E., "İlköğretim Birinci Kademe Türkçe Ders Kitaplarında Değerler Eğitimi", Ders Kitapları Uluslararası Sempozyumu (DEKUS 2018), İstanbul, TÜRKIYE, , pp.39-39 
