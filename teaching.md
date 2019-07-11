@@ -41,11 +41,11 @@ ING3182|Teaching English to Young Learners II|FALL|2012-2017
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
-TURK1001|Turkish|FALL|2009
-TURK1002|Turkish|FALL|2009
-TURK1001|Turkish|SPRING|2010
-TURK1002|Turkish|SPRING|2010
 TURK2001|Turkish|SPRING|2010
+TURK1002|Turkish|SPRING|2010
+TURK1001|Turkish|SPRING|2010
+TURK1002|Turkish|FALL|2009
+TURK1001|Turkish|FALL|2009
 
 [ytu-photo]: ../ytu-logo.png "Yildiz Technical University"
 [uga-photo]: ../uga-logo.png "University of Georgia"
