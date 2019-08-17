@@ -19,7 +19,7 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
             <li><a class="u-email" href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li>
-            <li><a href="tel://{{ site.phone }}">{{ site.phone }}</a></li>
+            <li><a href="tel://{{ site.phone }}">{{ site.phone_nice }}</a></li>
 			<li>Yildiz Teknik Universitesi, Egitim Fakultesi,
 				B122, Davutpasa Kampusu, 
 				Gungoren, 34165
@@ -33,6 +33,7 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+        <p>Last updated: {{ site.time }}</p>
         <p>&copy; 2019 All rights reserved.</p>
       </div>
     </div>
