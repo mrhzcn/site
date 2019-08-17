@@ -21,4 +21,4 @@ My research interests are as follows:
 - [Teaching Turkish as a Foreign Language](https://www.google.com/search?q=teaching+turkish+as+a+foreign+language){: target="_blank"}
 - [Technology](https://www.google.com/search?q=Technology){: target="_blank"}
 
-[photo]: emrah.jpg "Dr. Emrah Özcan"
+[photo]: AppleTeacher_EMRAH_OZCAN.png "Dr. Emrah Özcan"
