@@ -11,6 +11,8 @@ If you are curios about what lexicography is, here is how Frawley (1992) describ
 
 *__Source:__ Frawley, William J. (1992), Encyclopedia of Linguistics, Oxford: Oxford University Press*
 
+You may also find more on lexicography in my other website dedicated to the subject; [sozlukbilim.com](http://sozlukbilim.com){: target="_blank"}
+
 ***
 
 Here are some useful links about Lexicography:
