@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    As we speak cruel time is fleeing. Seize the day, believing as little as possible in the morrow. 
    — Horace, Odes (c. 23 BC and 13 BC), Book I, ode xi, line 8.
 baseurl: "/site" # the subpath of your site, e.g. /blog
-url: "http://emrahozcan.com.tr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mrhzcn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mrhzcn
 github_username:  mrhzcn
 googlescholar_username: I32BxyoAAAAJ
