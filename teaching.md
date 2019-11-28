@@ -9,6 +9,9 @@ permalink: /teaching/
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
+ING2331|Linguistics I|FALL|2019
+ING2110|Vocabulary Teaching in English|FALL|2019
+ING2161|Oral Expressions and Public Speaking|FALL|2019
 EGT2022|Instructional Technologies and Material Design|SPRING|2019
 EGT3111|Special Teaching Methods I|SPRING|2019
 EGT4012|Teaching Practice|SPRING|2019
@@ -17,7 +20,7 @@ ING2012|Scientific Research Methods|SPRING|2019
 ING3192|Turkish-English Translation|SPRING|2019
 ING1161|Computer I|FALL|2013
 ING1162|Computer II|SPRING|2013
-ERASMUS|TILC (Turkish Intensive Language Course for ERASMUS Exchange Students)|SUMMER|2012 
+ERASMUS|TILC (Turkish Intensive Language Course for ERASMUS Exchange Students)|SUMMER|2012
 0912912|ESP I (to the dept. of Instructional Technologies and Computer Teaching)|SPRING|2008
 0934021|Drama (Play) Analysis and Teaching|FALL|2008
 0931222|Lexicology|SPRING|2007-2008

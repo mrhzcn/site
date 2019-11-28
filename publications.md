@@ -6,16 +6,21 @@ permalink: /publications/
 
 ## ARTICLES (SCI, SSCI, AHCI)
 - Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
- 
+
 ## OTHER PUBLICATIONS
 - Özcan E., "Sözlükbilim ve Sözlükçülük Terimlerinin Kullanımı Üzerine", YILDIZ Journal of Educational Research (YEAD), vol.3, pp.1-13, 2018 [(Download)](http://eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=2752){: target="_blank"}
 - Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
- 
+
+## INVITED SPEAKER
+- Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Derlem Araştırmaları Merkezi Doğan Aksan'ı Anma Çalıştayı, Toros University, Mersin, 7-8 November 2019.
+
 ## PROCEEDINGS IN CONFERENCES/SYMPOSIUMS (REFREED)
+- Özcan E., Dağ Tarcan Ö., "Yabancı Dil Olarak Türkçe Öğretimi Ders Kitaplarındaki Okuma Metinlerinde Yer Alan Sözcüklerin Sıklık Görünümleri", Ders Kitapları Uluslararası Sempozyumu (DEKUS 2019), Yıldız Technical University, 24-26 October 2019.
+- Özcan E., "Sözcük Tanımlamada Anlık Oluşum", 33. Ulusal Dilbilim Kurultayı, Mersin University, Mersin, 9-10 May 2019.
 - Özcan E., "Retro-digitizing Turkish dictionaries using GROBID-dictionaries and XSLT", Lexical Data Masterclass Participants' Symposium, Berlin, GERMANY, 3-7 December 2018. [(Download)](https://hal.archives-ouvertes.fr/hal-01969337){: target="_blank"}
 - Özcan E., "Türkçe Sözlük’te Örnek Verme Stratejisi", 11. Uluslararası Türkçenin Eğitimi-Öğretimi Kurultayı, Ankara, TÜRKIYE, 4-6 October 2018.
 - Özcan E., Demirgüneş S., "İlköğretim Türkçe Okul Sözlüklerinin Sözlükbilimsel Analizi", 2. Uluslararası İpek Yolu Akademik Çalışmalar Sempozyumu, Nevşehir, 20-22 September 2018.
-- Demirgüneş S., Özcan E., "İlköğretim Birinci Kademe Türkçe Ders Kitaplarında Değerler Eğitimi", Ders Kitapları Uluslararası Sempozyumu (DEKUS 2018), İstanbul, TÜRKIYE, , pp.39-39 
+- Demirgüneş S., Özcan E., "İlköğretim Birinci Kademe Türkçe Ders Kitaplarında Değerler Eğitimi", Ders Kitapları Uluslararası Sempozyumu (DEKUS 2018), İstanbul, TÜRKIYE, , pp.39-39
 - Özcan E., Demirgüneş S., "İlköğretim Birinci Kademe Türkçe Kitaplarındaki Okuma Metinlerinde Sözcük Sıklıkları", Ders Kitapları Uluslararası Sempozyumu (DEKUS 2018), İstanbul, TÜRKIYE, , pp.38-38
 - Özcan E., "An XML Version of Turkish Dictionary", Lexical Data Masterclass Participants' Symposium, Berlin, GERMANY, 4-8 December 2017 [(Download)](https://hal.archives-ouvertes.fr/hal-01727591){: target="_blank"}
 - Özcan E., "Türkçe Sözlük'te Maddebaşı Olarak Anlık Oluşumsal Sözcükler", 10. Uluslararası Türkçenin Eğitimi-Öğretimi Kurultayı, İSTANBUL, TÜRKIYE, 28-30 September 2017, pp.0-0
