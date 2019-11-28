@@ -4,15 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
+## INVITED SPEAKER
+- Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
+
 ## ARTICLES (SCI, SSCI, AHCI)
 - Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
 
 ## OTHER PUBLICATIONS
 - Özcan E., "Sözlükbilim ve Sözlükçülük Terimlerinin Kullanımı Üzerine", YILDIZ Journal of Educational Research (YEAD), vol.3, pp.1-13, 2018 [(Download)](http://eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=2752){: target="_blank"}
 - Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
-
-## INVITED SPEAKER
-- Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
 
 ## PROCEEDINGS IN CONFERENCES/SYMPOSIUMS (REFREED)
 - Özcan E., Dağ Tarcan Ö., "Yabancı Dil Olarak Türkçe Öğretimi Ders Kitaplarındaki Okuma Metinlerinde Yer Alan Sözcüklerin Sıklık Görünümleri", International Symposium for Coursebooks (DEKUS 2019), Yıldız Technical University, 24-26 October 2019.
