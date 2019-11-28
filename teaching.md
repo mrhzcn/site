@@ -50,5 +50,5 @@ TURK1001|Turkish|SPRING|2010
 TURK1002|Turkish|FALL|2009
 TURK1001|Turkish|FALL|2009
 
-[ytu-photo]: ../ytu-logo.png "Yildiz Technical University"
-[uga-photo]: ../uga-logo.png "University of Georgia"
+[ytu-photo]: ../pics/ytu-logo.png "Yildiz Technical University"
+[uga-photo]: ../pics/uga-logo.png "University of Georgia"

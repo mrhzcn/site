@@ -6,6 +6,7 @@ permalink: /publications/
 
 ## INVITED SPEAKER
 - Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
+- Özcan E., "Sözlükbilim Çalışmaları: Dün, Bugün, Yarın", Kubbealtı Vakfı, İstanbul, Nisan 2020.
 
 ## ARTICLES (SCI, SSCI, AHCI)
 - Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
