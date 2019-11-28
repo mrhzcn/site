@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Training
+title: Training & Awards
 permalink: /training/
 ---
 
+## Training
 I have attended the following summer/winter schools, masterclasses and such:
 
 - DH Training Workshop "Digital Methods For Linguistic Investigation", Freie Universitat, Berlin, Germany, 2019
