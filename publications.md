@@ -12,10 +12,10 @@ permalink: /publications/
 - Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
 
 ## INVITED SPEAKER
-- Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Derlem Araştırmaları Merkezi Doğan Aksan'ı Anma Çalıştayı, Toros University, Mersin, 7-8 November 2019.
+- Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
 
 ## PROCEEDINGS IN CONFERENCES/SYMPOSIUMS (REFREED)
-- Özcan E., Dağ Tarcan Ö., "Yabancı Dil Olarak Türkçe Öğretimi Ders Kitaplarındaki Okuma Metinlerinde Yer Alan Sözcüklerin Sıklık Görünümleri", Ders Kitapları Uluslararası Sempozyumu (DEKUS 2019), Yıldız Technical University, 24-26 October 2019.
+- Özcan E., Dağ Tarcan Ö., "Yabancı Dil Olarak Türkçe Öğretimi Ders Kitaplarındaki Okuma Metinlerinde Yer Alan Sözcüklerin Sıklık Görünümleri", International Symposium for Coursebooks (DEKUS 2019), Yıldız Technical University, 24-26 October 2019.
 - Özcan E., "Sözcük Tanımlamada Anlık Oluşum", 33. Ulusal Dilbilim Kurultayı, Mersin University, Mersin, 9-10 May 2019.
 - Özcan E., "Retro-digitizing Turkish dictionaries using GROBID-dictionaries and XSLT", Lexical Data Masterclass Participants' Symposium, Berlin, GERMANY, 3-7 December 2018. [(Download)](https://hal.archives-ouvertes.fr/hal-01969337){: target="_blank"}
 - Özcan E., "Türkçe Sözlük’te Örnek Verme Stratejisi", 11. Uluslararası Türkçenin Eğitimi-Öğretimi Kurultayı, Ankara, TÜRKIYE, 4-6 October 2018.
