@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## INVITED SPEAKER
+## INVITED SPEAKER/PRESENTATIONS
 - Özcan E., "Sıklık Değerlerinin Sözlükbilimde Kullanımı", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
 - Özcan E., "Sözlükbilim Çalışmaları: Dün, Bugün, Yarın", Kubbealtı Vakfı, İstanbul, Nisan 2020.
 
