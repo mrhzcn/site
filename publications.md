@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## INVITED SPEAKER/PRESENTATIONS
 - Özcan E., "Using Frequencies in Lexicography", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
-- ÖZcan, E., "Using Corpus Specifically Frequency Data in Lexicography", 13th Linguistics Talks, Dokuz Eylül University, Linguistics Department, İzmir, 21 February 2020.
+- Özcan, E., "Using Corpus Specifically Frequency Data in Lexicography", 13th Linguistics Talks, Dokuz Eylül University, Linguistics Department, İzmir, 21 February 2020.
 - Özcan E., "Dictionary Studies: Past, Present, Future", Kubbealtı Foundation, İstanbul, 10th April 2020.
 
 ## ARTICLES (SCI, SSCI, AHCI)
