@@ -9,11 +9,12 @@ permalink: /teaching/
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
-ING2332|Linguistics I|SPRING|2020
+ING2332|Linguistics II|SPRING|2020
 ING1362|Structure of English|SPRING|2020
 ING1162|Computer II|SPRING|2020
 EGT4012|Teaching Practice|SPRING|2020
 EGT2020|Research Methods in Education|SPRING|2020
+
 ING2331|Linguistics I|FALL|2019
 ING2110|Vocabulary Teaching in English|FALL|2019
 ING2161|Oral Expressions and Public Speaking|FALL|2019
