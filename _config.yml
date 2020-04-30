@@ -35,7 +35,7 @@ publons_username: Q-8901-2019
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
