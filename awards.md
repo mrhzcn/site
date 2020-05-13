@@ -4,7 +4,7 @@ title: Awards
 permalink: /awards/
 ---
 
-- 2019, Accommodation and Travel Grant for eLex 2019 Conference, [(Watch the ceremony)](https://youtu.be/ZdNmxA-ar6s?t=500){: target="_blank"}, [https://www.hornby-trust.org.uk/newpage#Projects](https://www.hornby-trust.org.uk/newpage#Projects){: target="_blank"}. Sponsored by ![Hornby-logo] 
+- 2019, Accommodation and Travel Grant for eLex 2019 Conference, [(Watch the ceremony)](https://youtu.be/ZdNmxA-ar6s?t=500){: target="_blank"}, [https://elex.link/elex2019/hornby-bursary/](https://elex.link/elex2019/hornby-bursary/){: target="_blank"}. Sponsored by ![Hornby-logo] 
 
 
 - 2018, ERASMUS+ Visiting Scholar to Universidad de Cordoba. Sponsored by ![erasmus-logo]
