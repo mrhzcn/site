@@ -14,7 +14,6 @@ permalink: /publications/
 
 ## OTHER PUBLICATIONS
 - Özcan, E., Dağ Tarcan, Ö. "Frequency Patterns of Words in the Reading Texts in Turkish as a Foreign Language Coursebooks", Ankara University Journal of Social Sciences, Vol 11, No 2, pp.72-80, 2020 [(Download)](http://sobild.ankara.edu.tr/index.php/sobild/article/view/1397){: target="_blank"}
-
 - Özcan E., "Sözlükbilim ve Sözlükçülük Terimlerinin Kullanımı Üzerine", YILDIZ Journal of Educational Research (YEAD), vol.3, pp.1-13, 2018 [(Download)](http://eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=2752){: target="_blank"}
 - Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
 
