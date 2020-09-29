@@ -17,4 +17,5 @@
   {%- if site.academia_username -%}<li><i class="ai ai-academia ai-1x"></i><a href="https://yildiz.academia.edu/{{ site.academia_username| escape }}"><span class="username">{{ site.academia_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.mendeley_username -%}<li><i class="ai ai-mendeley ai-1x"></i><a href="https://www.mendeley.com/profiles/{{ site.mendeley_username| escape }}"><span class="username">{{ site.mendeley_username| escape }}</span></a></li>{%- endif -%}
   {%- if site.publons_username -%}<li><i class="ai ai-publons ai-1x"></i><a href="https://publons.com/researcher/{{ site.publons_username| escape }}"><span class="username">{{ site.publons_username| escape }}</span></a></li>{%- endif -%}
+  {%- if site.scopus_username -%}<li><i class="ai ai-scopus ai-1x"></i><a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus_username| escape }}"><span class="username">{{ site.scopus_username| escape }}</span></a></li>{%- endif -%}
   </ul>
