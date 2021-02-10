@@ -7,7 +7,6 @@ permalink: /publications/
 ## INVITED SPEAKER/PRESENTATIONS
 - Özcan E., "Using Frequencies in Lexicography", V. Corpus Research Center Symposium, Commemoration of Doğan Aksan, Toros University, Mersin, 7-8 November 2019.
 - Özcan, E., "Using Corpus In Term of Frequency Data in Lexicography", 13th Linguistics Talks, Dokuz Eylül University, Linguistics Department, İzmir, 21 February 2020.
-- ~~Özcan E., "Dictionary Studies: Past, Present, Future", Kubbealtı Foundation, İstanbul, Fall 2020.
 
 ## ARTICLES (SCI, SSCI, AHCI)
 - Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
