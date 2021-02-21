@@ -9,14 +9,14 @@ permalink: /teaching/
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
-ING1312|Reading Skills 2                                     |SPRING|2021
-ING1172|Advanced Reading and Writing II                      |SPRING|2021
-ING1222|Lexical Competence                                   |SPRING|2021
-ING1132|Contextual Grammar II                                |SPRING|2021
-ING1362|Structure of English                                 |SPRING|2021
-ING2332|Linguistics 2                                        |SPRING|2021
-ING2202|Linguistics II                                       |SPRING|2021
-EGT4012|Teaching Practice 1                                  |SPRING|2021  
+ING1312|Reading Skills 2|SPRING|2021
+ING1172|Advanced Reading and Writing II|SPRING|2021
+ING1222|Lexical Competence|SPRING|2021
+ING1132|Contextual Grammar II|SPRING|2021
+ING1362|Structure of English|SPRING|2021
+ING2332|Linguistics 2|SPRING|2021
+ING2202|Linguistics II|SPRING|2021
+EGT4012|Teaching Practice 1|SPRING|2021  
 ING2331|Linguistics I|FALL|2020
 ING1311|Reading Skills I|FALL|2020
 ING2161|Oral Expression and Public Speaking|FALL|2020
