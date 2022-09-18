@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    — Horace, Odes (c. 23 BC and 13 BC), Book I, ode xi, line 8.
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://mrhzcn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mrhzcn
+twitter_username: dremrah0zcan
 github_username:  mrhzcn
 googlescholar_username: I32BxyoAAAAJ
 researchgate_username: Emrah_Oezcan2
