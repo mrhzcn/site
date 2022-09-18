@@ -9,7 +9,7 @@ I graduated from [`Istanbul University`](https://www.istanbul.edu.tr/){: target=
 
 I have an MA degree in Teaching Turkish as a Foreign Language from [`Yildiz Technical University`](http://yildiz.edu.tr){: target="_blank"}. Also, I hold a PhD degree in Linguistics with a focus on Lexicography from [`Ankara University`](https://www.ankara.edu.tr){: target="_blank"} and I had the pleasure and honor to work with [Prof.Dr. Nadir Engin Uzun](https://www.google.com/search?q=Prof+Dr+Nadir+Engin+Uzun){: target="_blank"} in my dissertation.
 
-If you want to follow me on Twitter, I'll be happy: <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a>
+My Twitter: <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a>
 
 My research interests are as follows:
 
