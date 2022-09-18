@@ -9,6 +9,11 @@ permalink: /teaching/
 
 Course code|Course name|Semester|Year
 -----------|-----------|--------|----
+ING2332|Linguistics II|SPRING|2022
+ING1362|Structure of English|SPRING|2022
+ING4302|School Practicum II|SPRING|2022
+ING2331|Linguistics I|FALL|2021
+ING4301|School Practicum I|FALL|2021
 ING1312|Reading Skills 2|SPRING|2021
 ING1172|Advanced Reading and Writing II|SPRING|2021
 ING1222|Lexical Competence|SPRING|2021
