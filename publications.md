@@ -12,6 +12,10 @@ permalink: /publications/
 ## ARTICLES (SCI, SSCI, AHCI)
 - Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
 
+## BOOK SECTIONS
+- Özcan, E. (2020). Sözcük Tanımlamada Anlık Oluşum. In Uçar, A., İbe Akcan, P. & Çetintaş Yıldırım, F. (Ed.), DİLBİLİMDE GÜNCEL TARTIŞMALAR (pp. 141–150). Ankara, Turkey: Dilbilim Derneği Yayınları. [(Download)](http://doi.org/10.5281/zenodo.4531651){: target="_blank"}
+- Özcan, E. (2021). Sıklık Değerlerinin Sözlükbilimde Kullanımı: İngilizce-Türkçe Bir Karşılaştırma. In Aksan, M. & Atasoy, G. (Ed.), DERLEM DİLBİLİM VE SÖZCÜK ANLAMBİLİM Doğan Aksan Anısına (pp. 13-35). Mersin, Turkey: Toros Üniversitesi Yayınları. [(Download)](https://zenodo.org/record/5776705){: target="_blank"}
+
 ## OTHER PUBLICATIONS
 - Özcan, Emrah. (2020). Sözcük Tanımlamada Anlık Oluşum. In DİLBİLİMDE GÜNCEL TARTIŞMALAR (pp. 141–150). Ankara, Turkey: Dilbilim Derneği Yayınları. [(Download)](http://doi.org/10.5281/zenodo.4531651){: target="_blank"}
 - Özcan, E., Dağ Tarcan, Ö. "Frequency Patterns of Words in the Reading Texts in Turkish as a Foreign Language Coursebooks", Ankara University Journal of Social Sciences, Vol 11, No 2, pp.72-80, 2020 [(Download)](http://sobild.ankara.edu.tr/index.php/sobild/article/view/1397){: target="_blank"}
