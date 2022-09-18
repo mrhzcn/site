@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![Emrah Özcan](/pics/emrah.jpg "Dr. Emrah Özcan")
+![Emrah Özcan](pics/emrah.jpg "Dr. Emrah Özcan")
 
 I graduated from [`Istanbul University`](https://www.istanbul.edu.tr/){: target="_blank"}, ELT Department. After my graduation, I began to work as an English and drama teacher in a private school. Since then, I have been teaching English and Turkish (as a foreign language). Among many institutions, I also worked at IH (International House) and EF (English First). Upon teaching, I have been working as a freelance translator (Eng-Tur and Tur-Eng). Since 2005, I have been working as a research assistant at [`Yildiz Technical University`](http://yildiz.edu.tr){: target="_blank"}, Faculty of Education, Foreign Languages Education Department. In 2009-2010 academic year, I taught Turkish at the [`University of Georgia`](https://www.uga.edu){: target="_blank"}, Athens, GA, USA as a [Fulbright](https://fulbright.org.tr/){: target="_blank"} FLTA Scholar.
 
