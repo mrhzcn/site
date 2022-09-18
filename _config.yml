@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr. Emrah Özcan
-email: dr@emrahozcan.com.tr
+email: 
 email2: eozcan@yildiz.edu.tr
 phone: 00902123834869
 phone_nice: +90 (212) 383 4869
