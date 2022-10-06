@@ -17,10 +17,11 @@ permalink: /publications/
 - Özcan, E. (2021). Sıklık Değerlerinin Sözlükbilimde Kullanımı: İngilizce-Türkçe Bir Karşılaştırma. In Aksan, M. & Atasoy, G. (Ed.), DERLEM DİLBİLİM VE SÖZCÜK ANLAMBİLİM Doğan Aksan Anısına (pp. 13-35). Mersin, Turkey: Toros Üniversitesi Yayınları. [(Download)](https://zenodo.org/record/5776705){: target="_blank"}
 
 ## OTHER PUBLICATIONS
+- Demirgüneş,S., Özcan, E. (2022). Values Education in Turkish Textbooks in Primary Education . European Journal Of Educational Sciences, 9(3), [(Download)](http://dx.doi.org/10.19044/ejes.v9no3a1){: target="_blank"}
 - Özcan, Emrah. (2020). Sözcük Tanımlamada Anlık Oluşum. In DİLBİLİMDE GÜNCEL TARTIŞMALAR (pp. 141–150). Ankara, Turkey: Dilbilim Derneği Yayınları. [(Download)](http://doi.org/10.5281/zenodo.4531651){: target="_blank"}
 - Özcan, E., Dağ Tarcan, Ö. "Frequency Patterns of Words in the Reading Texts in Turkish as a Foreign Language Coursebooks", Ankara University Journal of Social Sciences, Vol 11, No 2, pp.72-80, 2020 [(Download)](http://sobild.ankara.edu.tr/index.php/sobild/article/view/1397){: target="_blank"}
 - Özcan E., "Sözlükbilim ve Sözlükçülük Terimlerinin Kullanımı Üzerine", YILDIZ Journal of Educational Research (YEAD), vol.3, pp.1-13, 2018 [(Download)](http://eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=2752){: target="_blank"}
-- Özcan E., "Kubbealltı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
+- Özcan E., "Kubbealtı Lugatı Üzerine Düşünceler", Akademi Mecmuası, vol.2, pp.54-61, 2015 [(Download)](http://www.kubbealti.org.tr/akademi-mecmuasi/2015/nisan-2015.pdf){: target="_blank"}
 
 ## PROCEEDINGS IN CONFERENCES/SYMPOSIUMS (REFREED)
 - Özcan E., Dağ Tarcan Ö., "Yabancı Dil Olarak Türkçe Öğretimi Ders Kitaplarındaki Okuma Metinlerinde Yer Alan Sözcüklerin Sıklık Görünümleri", International Symposium for Coursebooks (DEKUS 2019), Yıldız Technical University, 24-26 October 2019.
