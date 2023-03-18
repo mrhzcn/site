@@ -10,7 +10,7 @@ permalink: /publications/
 - Özcan, E., "Use of Frequency Data for Language Learners", International Conference on Languages Pedagogy (ICOLP 2021), Faculty of Languages and Art, Universitas Negeri Padang, Indonesia, 11 November 2021.
 
 ## ARTICLES (SCI, SSCI, AHCI)
-- Kavanoz S., Yüksel H.G., Özcan E., "Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge", COMPUTERS & EDUCATION, vol.85, pp.94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
+- Kavanoz, S., Yüksel H.G., Özcan E. (2015). Pre-service teachers' self-efficacy perceptions on Web Pedagogical Content Knowledge, *COMPUTERS & EDUCATION, 85*, 94-101, 2015 [(Download)](https://doi.org/10.1016/j.compedu.2015.02.005){: target="_blank"}
 
 ## BOOK SECTIONS
 - Özcan, E. (2020). Sözcük Tanımlamada Anlık Oluşum. In Uçar, A., İbe Akcan, P. & Çetintaş Yıldırım, F. (Ed.), DİLBİLİMDE GÜNCEL TARTIŞMALAR (pp. 141–150). Ankara, Turkey: Dilbilim Derneği Yayınları. [(Download)](http://doi.org/10.5281/zenodo.4531651){: target="_blank"}
